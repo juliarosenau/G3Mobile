@@ -3,8 +3,6 @@
 </h1>
 
 💻 O que precisa baixar:
-You're sections headers will be used to reference location of destination.
-
 
 - [Vscode](#Vscode)
 - [Android Studio](#AndroidStudio)
