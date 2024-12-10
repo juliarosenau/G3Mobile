@@ -67,4 +67,4 @@ Aqui iremos fazer a última instalação antes de fazer todos os ajustes! Nesse 
 </p>
 </h2>
 
-[Back To The Top](#Como-montar-o-ambiente-para-trabalhar-com-o-G3)  
+[Voltar ao início](#Como-montar-o-ambiente-para-trabalhar-com-o-G3) 
