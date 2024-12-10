@@ -3,29 +3,29 @@
 </h1>
 
 💻 O que precisa baixar:
+You're sections headers will be used to reference location of destination.
 
-- Vscode
-- Andorid Studio
-- Node Js
-- Nvm (Node version manager)
-- Jre (Java Runtime Environment)
--  TortoiseSVN
 
-<h2> 
-  1° passo 
-</h2>
+- [Vscode](#Vscode)
+- [Android Studio](#AndroidStudio)
+- [Node Js](#NodeJs)
+- [Nvm (Node version manager)](#Nvm (Node version manager))
+- [Jre (Java Runtime Environment)](#Jre (Java Runtime Environment))
+- [TortoiseSVN](#TortoiseSVN)
+
+---
+
+## Vscode
+
+No primeiro passo deve ser instalado a IDE que será onde iremos trabalhar com o código do G3 Mobile 
 
 <p> 
   No primeiro passo deve ser instalado a IDE que será onde iremos trabalhar com o código do G3 Mobile 
 
 Instalar Vscode 
-<style>
-         {
-            color: blue;
-        }
-    </style>
 
 Link de instalação: Visual Studio Codehttps://code.visualstudio.comVisual Studio Code
+
 </p>
 
 </h2>
