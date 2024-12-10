@@ -18,7 +18,7 @@
 <p> 
   No primeiro passo deve ser instalado a IDE que será onde iremos trabalhar com o código do G3 Mobile 
 
-`Instalar Vscode `
+`Instalar Vscode`
 
 Link de instalação: Visual Studio Codehttps://code.visualstudio.comVisual Studio Code
 
