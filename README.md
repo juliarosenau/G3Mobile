@@ -20,7 +20,8 @@
 
 `Instalar Vscode`
 
-Link de instalação: https://code.visualstudio.comVisual Studio Code
+[Link de instalação:](https://code.visualstudio.comVisualStudioCode)
+
 
 </p>
 
