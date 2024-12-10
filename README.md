@@ -1,6 +1,6 @@
 # Como montar o ambiente para trabalhar com o G3  
 
-💻 O que precisa baixar:
+# O que precisa baixar:
 
 - [Vscode](#Vscode)
 - [Android Studio](#AndroidStudio)
@@ -68,3 +68,20 @@ Aqui iremos fazer a última instalação antes de fazer todos os ajustes! Nesse 
 </h2>
 
 [Voltar ao início](#Como-montar-o-ambiente-para-trabalhar-com-o-G3) 
+
+---
+# Instalação do Nvm através do CMD 
+
+```
+nvm list
+```
+
+```
+nvm use
+```
+
+```
+nvm install numero da versao
+
+```
+
