@@ -68,3 +68,17 @@ Iremos fazer a instalação do Jre (Java Runtime Environment) que nos oferece re
 [Instale Aqui!](https://www.java.com/pt-BR/download/manual.jsp)
 </p>
 </h2>
+
+
+## TortoiseSVN
+
+<p> 
+Aqui iremos fazer a última instalação antes de fazer todos os ajustes! Nesse passo iremos instalar o TortoiseSVN, ele ajuda a gerenciar diferentes versões de código-fonte dos projetos
+
+  
+`Instalar  TortoiseSVN`
+
+[Instale Aqui!](https://tortoisesvn.net/downloads.html)
+</p>
+</h2>
+
