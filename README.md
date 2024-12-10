@@ -13,7 +13,7 @@
 
 ---
 
-## Vscode
+#### Vscode
 
 <p> 
   No primeiro passo deve ser instalado a IDE que será onde iremos trabalhar com o código do G3 Mobile 
@@ -25,7 +25,7 @@
 </h2>
 
 
-## AndroidStudio
+#### AndroidStudio
 
 <p> 
   Aqui faremos a instalação do Android Studio, que será onde iremos desenvolver para o sistema android
@@ -36,7 +36,7 @@
 </p>
 </h2>
 
-## NodeJs
+#### NodeJs
 
 <p> 
   Iremos fazer a instalação do Node Js que é a ferramenta que iremos trabalhar em JavaScript 
@@ -47,7 +47,7 @@
 </p>
 </h2>
 
-## Nvm 
+#### Nvm 
 
 <p> 
  Agora devemos instalar o Nvm (Node version manager), que é onde iremos instalar várias versões do Node
@@ -58,7 +58,7 @@
 </p>
 </h2>
 
-## Jre
+#### Jre
 
 <p> 
 Iremos fazer a instalação do Jre (Java Runtime Environment) que nos oferece recursos adicionais do Java! 
@@ -70,7 +70,7 @@ Iremos fazer a instalação do Jre (Java Runtime Environment) que nos oferece re
 </h2>
 
 
-## TortoiseSVN
+#### TortoiseSVN
 
 <p> 
 Aqui iremos fazer a última instalação antes de fazer todos os ajustes! Nesse passo iremos instalar o TortoiseSVN, ele ajuda a gerenciar diferentes versões de código-fonte dos projetos
