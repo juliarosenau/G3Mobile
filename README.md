@@ -7,8 +7,8 @@
 - [Vscode](#Vscode)
 - [Android Studio](#AndroidStudio)
 - [Node Js](#NodeJs)
-- [Nvm (Node version manager)](#Nvm (Node version manager))
-- [Jre (Java Runtime Environment)](#Jre (Java Runtime Environment))
+- [Nvm (Node version manager)](#Nvm (Nodeversionmanager))
+- [Jre (Java Runtime Environment)](#Jre(JavaRuntimeEnvironment))
 - [TortoiseSVN](#TortoiseSVN)
 
 ---
@@ -25,7 +25,7 @@
 </h2>
 
 
-## Android Studio
+## AndroidStudio
 
 <p> 
   Aqui faremos a instalação do Android Studio, que será onde iremos desenvolver para o sistema android
@@ -47,7 +47,7 @@
 </p>
 </h2>
 
-## Nvm (Node version manager) 
+## Nvm(Nodeversionmanager) 
 
 <p> 
  Agora devemos instalar o Nvm (Node version manager), que é onde iremos instalar várias versões do Node
@@ -58,7 +58,7 @@
 </p>
 </h2>
 
-## Jre (Java Runtime Environment)
+## Jre(JavaRuntimeEnvironment)
 
 <p> 
 Iremos fazer a instalação do Jre (Java Runtime Environment) que nos oferece recursos adicionais do Java! 
